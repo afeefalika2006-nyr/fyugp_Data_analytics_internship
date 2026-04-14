@@ -1,0 +1,5 @@
+Day 7 Insight: Power BI Slicer
+
+Using the Category slicer, I discovered that the Electronics category generates the highest total sales.
+This insight was not immediately obvious in the full dataset but became clear after filtering.
+The slicer also revealed that sales trends and city-level performance vary significantly across different product categories.
