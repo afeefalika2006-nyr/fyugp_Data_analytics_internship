@@ -1,0 +1,3 @@
+The bar chart is clearer than the pie chart for comparing total sales by category. 
+It allows precise comparison of values and makes it easy to identify the highest and lowest performing categories. 
+While the pie chart shows proportions, the bar chart communicates differences more accurately and is easier to interpret.
