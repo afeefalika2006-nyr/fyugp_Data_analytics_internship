@@ -1,0 +1,4 @@
+Day 9 – CALCULATE Function
+
+The total sales are ₹19,000, while sales for the Electronics category are ₹15,000
+because the CALCULATE function filters the data to include only Electronics transactions.
