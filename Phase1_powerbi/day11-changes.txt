@@ -1,0 +1,26 @@
+-> Change 1: Removed unnecessary visuals
+
+   What I did:
+      Reduced number of charts from many to 4–5 key visuals
+
+   Why it helps:
+     Too many visuals create information overload and confusion.
+     Focusing only on important metrics improves clarity and decision-making.
+
+-> Change 2: Applied consistent colors
+
+    What I did:
+      Used only 2–3 colors across the dashboard
+
+    Why it helps:
+        Too many colors distract users and make it hard to identify key insights.
+        Consistent colors improve readability and focus.
+
+-> Change 3: Improved alignment and spacing
+
+    What I did:
+       Aligned all visuals properly and added whitespace between them
+
+    Why it helps:
+       Proper spacing makes the dashboard look clean and easier to scan quickly.
+       It reduces visual clutter and improves user experience.
