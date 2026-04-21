@@ -1,0 +1,4 @@
+This dashboard analyzes overall sales performance across regions and product categories. 
+It highlights key metrics such as total sales, profit, and profit margin. 
+The visuals show which regions and categories contribute the most to revenue and how sales change over time. 
+This helps in identifying high-performing areas and trends for better decision-making.
